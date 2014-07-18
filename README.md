@@ -1,4 +1,4 @@
-recipies
+recipes
 ========
 
 recipies of some dishes that i like.
