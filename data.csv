@@ -1,8 +1,8 @@
-dish name,ingredient
-toasted cheese sandwich,toast
-toasted cheese sandwich,cheese
-toasted cheese sandwich,oil
-veggie pizza,capsicum
-veggie pizza,cheese
-veggie pizza,cherry tomatoes
-veggie pizza,panacopita
+code,dish name,ingredient
+tc,toasted cheese sandwich,toast
+tc,toasted cheese sandwich,cheese
+tc,toasted cheese sandwich,oil
+vp,veggie pizza,capsicum
+vp,veggie pizza,cheese
+vp,veggie pizza,cherry tomatoes
+vp,veggie pizza,panacopita
