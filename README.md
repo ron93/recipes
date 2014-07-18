@@ -1,7 +1,7 @@
 recipes
 ========
 
-recipies of some dishes that i like.
+recipes of some dishes that i like.
 
 
 toasted cheese sandwiches
